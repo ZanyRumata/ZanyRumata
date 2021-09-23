@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZanyRumata
+- 👀 I’m Data Scientist in russian bank
+- 🌱 I’m currently learning finance (trading bot / react-native / ML)
+- 📫 How to reach me: everisposs@mail.ru
