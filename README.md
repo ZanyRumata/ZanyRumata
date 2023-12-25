@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ZanyRumata
-- 👀 I’m Data Scientist at AlfaBank
-- 🌱 I’m currently learning finance (trading bot / ML)
+- 👀 I’m Data Scientist at Yandex
 - 📫 How to reach me: everisposs@mail.ru
